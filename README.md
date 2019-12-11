@@ -2,6 +2,8 @@
 
 I have developed strong leadership and communication skills that include setting team goals, organizing team schedules, and assisting in creating a strong team dynamic. I’m eager to turn my talent for analyzing data in to action growth strategies.
 
+## Screenshot
+
 <img width="1020" alt="Screen Shot 2019-12-11 at 2 18 59 PM" src="https://user-images.githubusercontent.com/49736893/70657406-5f80da80-1c21-11ea-8e87-71d954e039a0.png">
 
 

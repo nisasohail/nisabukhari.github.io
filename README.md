@@ -6,11 +6,11 @@ I have developed strong leadership and communication skills that include setting
 
 <img width="1020" alt="Screen Shot 2019-12-11 at 2 18 59 PM" src="https://user-images.githubusercontent.com/49736893/70657406-5f80da80-1c21-11ea-8e87-71d954e039a0.png">
 
+# Technical Skills
+
 ![image for portfolio](https://user-images.githubusercontent.com/49736893/70657891-678d4a00-1c22-11ea-8550-0d5942968ed0.jpeg)
 
 
-
-# Technical Skills
 * Data Cleaning 
 * Data Analysis 
 * Data Visualization 

@@ -4,6 +4,9 @@
 
 ## My Interest 
 
+![interest](https://user-images.githubusercontent.com/49736893/70752908-36cc1400-1cf9-11ea-8cad-e19316340b8c.png)
+
+
 ### Completed SMU Data Science Boot Camp. Now the next step is...
 
 I have developed strong leadership and communication skills that include setting team goals, organizing team schedules, and assisting in creating a strong team dynamic. I’m eager to turn my talent for analyzing data in to action growth strategies.

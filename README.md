@@ -4,7 +4,7 @@
 
 ## My Interest 
 
-Building the blocks and taking one step at a time. Patience is the key...!
+Building the blocks and taking one step at a time. Patience is the key!
 
 ![interest](https://user-images.githubusercontent.com/49736893/70752908-36cc1400-1cf9-11ea-8cad-e19316340b8c.png)
 

@@ -29,7 +29,7 @@ I have developed strong leadership and communication skills that include setting
 * Training and Professional Development 
 * Tableau
 
-![masters-data-science-analytics](https://user-images.githubusercontent.com/49736893/70683852-83680e80-1c69-11ea-88de-aa7a4d7f4095.jpg)
+![data-science](https://user-images.githubusercontent.com/49736893/70683851-83680e80-1c69-11ea-9a5d-e68ea2aade14.jpg)
 
 Credits:
 

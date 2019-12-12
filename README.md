@@ -2,6 +2,8 @@
 
 ![maxresdefault](https://user-images.githubusercontent.com/49736893/70684060-71d33680-1c6a-11ea-8939-ce2d68145bc6.jpg)
 
+## My Interest 
+
 I have developed strong leadership and communication skills that include setting team goals, organizing team schedules, and assisting in creating a strong team dynamic. I’m eager to turn my talent for analyzing data in to action growth strategies.
 
 ## Screenshot

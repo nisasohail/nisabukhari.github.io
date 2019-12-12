@@ -31,6 +31,9 @@ I have developed strong leadership and communication skills that include setting
 * Training and Professional Development 
 * Tableau
 
+## LinkedIn
+https://www.linkedin.com/in/snisa07/
+
 ![data-science](https://user-images.githubusercontent.com/49736893/70683851-83680e80-1c69-11ea-9a5d-e68ea2aade14.jpg)
 
 Credits:

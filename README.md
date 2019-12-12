@@ -1,6 +1,6 @@
 # Portfolio 
 
-![data-science](https://user-images.githubusercontent.com/49736893/70683851-83680e80-1c69-11ea-9a5d-e68ea2aade14.jpg)
+![maxresdefault](https://user-images.githubusercontent.com/49736893/70684060-71d33680-1c6a-11ea-8939-ce2d68145bc6.jpg)
 
 I have developed strong leadership and communication skills that include setting team goals, organizing team schedules, and assisting in creating a strong team dynamic. I’m eager to turn my talent for analyzing data in to action growth strategies.
 

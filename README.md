@@ -8,6 +8,8 @@ I have developed strong leadership and communication skills that include setting
 
 ## Screenshot
 
+glimpse of the codes that were used for the website:
+
 <img width="1020" alt="Screen Shot 2019-12-11 at 2 18 59 PM" src="https://user-images.githubusercontent.com/49736893/70657406-5f80da80-1c21-11ea-8e87-71d954e039a0.png">
 
 # Technical Skills

@@ -1,6 +1,6 @@
 ## My Portfolio 
 
-### What is Data Science? Why made me to this direction. My story!
+### What is Data Science? Why head to this direction. My story!
 
 ![maxresdefault](https://user-images.githubusercontent.com/49736893/70684060-71d33680-1c6a-11ea-8939-ce2d68145bc6.jpg)
 
